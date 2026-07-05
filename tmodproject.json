@@ -1,0 +1,6 @@
+{
+  "rootNamespace": "MoreAlternatives",
+  "fileMap": {
+    "Content\\Tiles\\GalliumOre.cs": "MoreAlternatives.Content.Tiles"
+  }
+}
