@@ -1,0 +1,45 @@
+# Build output
+bin/
+obj/
+out/
+build/
+dist/
+
+# IDE files
+.vs/
+.vscode/
+*.sln.DotSettings
+*.user
+*.userprefs
+*.sln.iml
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+*.exe
+*.dll
+
+# Compiled binaries (if not in bin/)
+*.pdb
+*.pdb.meta
+
+# tModLoader specific
+tModLoader/
+releases/
+*.tmod
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Dependencies (if using NuGet)
+packages/
+.nuget/
+
+# Test results
+TestResults/
